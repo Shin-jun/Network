@@ -1,0 +1,5 @@
+﻿  TCPServer.cpp
+F:\winNetwork\Lecture_Server\Lecture_Server\TCPServer.cpp(65,83): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+F:\winNetwork\Lecture_Server\Lecture_Server\TCPServer.cpp(81,31): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+F:\winNetwork\Lecture_Server\Lecture_Server\TCPServer.cpp(94,82): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  Lecture_Server.vcxproj -> F:\winNetwork\Lecture_Server\Debug\Lecture_Server.exe
