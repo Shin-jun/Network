@@ -1,0 +1,3 @@
+﻿  TCPServer6.cpp
+F:\winNetwork\Lecture5_Server\Lecture_Server\TCPServer6.cpp(71,3): warning C4996: 'WSAAddressToStringA': Use WSAAddressToStringW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  Lecture_Server.vcxproj -> F:\winNetwork\Lecture5_Server\Debug\Lecture_Server.exe

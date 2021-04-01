@@ -1,0 +1,3 @@
+﻿  TCPClient6.cpp
+F:\winNetwork\Lecture5_Client\Lecture_Client\TCPClient6.cpp(63,2): warning C4996: 'WSAStringToAddressA': Use WSAStringToAddressW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  Lecture_Client.vcxproj -> F:\winNetwork\Lecture5_Client\Debug\Lecture_Client.exe
