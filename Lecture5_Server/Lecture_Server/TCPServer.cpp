@@ -18,7 +18,7 @@ void err_display(const char* msg) {
 	printf("오류 메시지");
 }
 
-int main_IPv4() {
+int main() {
 	int retval;		// 소켓에 정보를 저장할 변수
 
 	// 윈속 초기화

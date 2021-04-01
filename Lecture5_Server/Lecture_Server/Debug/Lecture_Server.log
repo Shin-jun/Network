@@ -1,3 +1,5 @@
-﻿  TCPServer6.cpp
-F:\winNetwork\Lecture5_Server\Lecture_Server\TCPServer6.cpp(71,3): warning C4996: 'WSAAddressToStringA': Use WSAAddressToStringW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+﻿  TCPServer_FixVar.cpp
+F:\winNetwork\Lecture5_Server\Lecture_Server\TCPServer_FixVar.cpp(90,83): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+F:\winNetwork\Lecture5_Server\Lecture_Server\TCPServer_FixVar.cpp(120,31): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+F:\winNetwork\Lecture5_Server\Lecture_Server\TCPServer_FixVar.cpp(133,82): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
   Lecture_Server.vcxproj -> F:\winNetwork\Lecture5_Server\Debug\Lecture_Server.exe
