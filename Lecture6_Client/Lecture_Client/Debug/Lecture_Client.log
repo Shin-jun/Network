@@ -1,0 +1,4 @@
+﻿  TCPClient_sum.cpp
+F:\winNetwork\Lecture6_Client\Lecture_Client\TCPClient_sum.cpp(59,31): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+F:\winNetwork\Lecture6_Client\Lecture_Client\TCPClient_sum.cpp(89,7): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Lecture_Client.vcxproj -> F:\winNetwork\Lecture6_Client\Debug\Lecture_Client.exe
